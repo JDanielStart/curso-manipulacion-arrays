@@ -47,7 +47,7 @@ const data = [
     else {
         obj[item] = obj[item] + 1;
     }
-    return obj;
+    return obj;ç
 }, {});
 
 console.log('rta1', rta1);
